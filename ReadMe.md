@@ -74,14 +74,6 @@ Additionally, if users are used to customizing the path of the data spidered, th
 
 ### Part 3 --- Syntax
 
-The Discrete Fourier Transform (DFT) is defined as:
-
-\[ X[k] = \sum_{n=0}^{N-1} x[n] \cdot e^{-j2\pi kn/N} \]
-
-The Inverse Discrete Fourier Transform (IDFT) is defined as:
-
-\[ x[n] = \frac{1}{N} \sum_{k=0}^{N-1} X[k] \cdot e^{j2\pi kn/N} \]
-
 -- to be continued --
 
 ### Part 4 --- Application of ML
