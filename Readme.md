@@ -38,12 +38,12 @@
 >- 爬取完成qiqihar_weather_daily.jsonl, 同时优化爬取文件名（加了时间戳）*2024.07.12 11:40 AM*
 >- [x] 确认数据本地存储及格式。</br> 文件格式为jsonline
 >- [x] 广泛了解爬取数据的方式。
->- [ ] 将数据存储到MySQL中，同时针对WeatherBroadcastSystem进行真实化。
+>- [x] 将数据存储到MySQL中，同时针对WeatherBroadcastSystem进行真实化。
 >- [ ] 数据分析：利用Transformer库进行机器学习。
->- [ ] 数据分析：利用第三方库进行可视化。
->- [ ] 撰写项目报告。
->- [ ] 制作答辩Powerpoint。
->- [ ] 制作文件架构图(Structure Chart)，程序流程图(Flow Chart)，优化MySQL数据库的Entity-Relationship Diagram
+>- [x] 数据分析：利用第三方库进行可视化。
+>- [x] 撰写项目报告。
+>- [x] 制作答辩Powerpoint。
+>- [x] 制作文件架构图(Structure Chart)，程序流程图(Flow Chart)，优化MySQL数据库的Entity-Relationship Diagram
 
 ### Part 2 --- Introduction of Programme
 
