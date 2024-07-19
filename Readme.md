@@ -14,7 +14,7 @@
 
 这也是我在实践学期选题爬取天气数据的主要原因，有现成的世界范围内的地理数据预设和一些机器学习经验可供我完善和深化此实践学期的技术需求。</br>
 
-对我个人而言，无论是未来继续想做一个更大的项目，比如MacOS，iOS上的ObjectiveC的程序。还是为了升本复习专业课基础知识，此次项目都提供了更多可能性的机会去探索计算机科学知识的机会。</br>
+对我个人而言，无论是未来继续想做一个更大的项目，比如MacOS，iOS上的ObjectiveC的程序。还是为了升学复习专业课基础知识，此次项目都提供了更多可能性的机会去探索计算机科学知识的机会。</br>
 
 简单描述后，Part1的主要内容将被列出，并将持续更新，后续会公布在Github上。
 
@@ -33,7 +33,7 @@
 >- Beijing, China
 >- Shanghai, China
 >- Suzhou, China </br> --- *2024.07.10*
->- [x] 集中测试网站爬取的可行性。</br> weatherdataonline是可用的，是以提交表单的形式换页 --- *2024.07.11* </br> 
+>- [x] 集中测试网站爬取的可行性。</br> weatherdataonline是可用的，是以提交表单的形式换页 --- *2024.07.11* </br> worldweatheronline disabled --- *2024.07.19*
 >- [x] 量级数据获取。</br> 目前因为时间原因暂定为下列三个城市2014-01-01 --->> 2024-07-10的数据 </br>*（est.approximately 4000 datas per spider）* </br> Dalian, China </br> Qiqihar, China </br> Weihai, China </br> 大连和威海，齐齐哈尔分别做一个实验组。地理原因带来的气候条件可视化.etc </br> 目前完成度 *20%* --- *2024.07.11*｜预计完成时间*2024.07.14*
 >- 爬取完成qiqihar_weather_daily.jsonl, 同时优化爬取文件名（加了时间戳）*2024.07.12 11:40 AM*
 >- [x] 确认数据本地存储及格式。</br> 文件格式为jsonline
@@ -99,5 +99,5 @@ The Inverse Discrete Fourier Transform (IDFT) is defined as:
 ***
 
 Copyright (c) By Sylvester Van, Dalian Neusoft University of Information, Higher Vocational, Artificial Intelligence and Technology Department, Class 23102. </br>
-Contact E-mail: Naringinstudio@outlook.com(Personal, available always), 2323450016@dnui.edu.cn(Public, disabled at 2026.7 onwards). </br>
+Contact E-mail: Naringinstudio@outlook.com(Personal, available always), 2323450016@dnui.edu.cn(Public, expired at 2026.7 onwards). </br>
 Discord: cs_sylvester_van
